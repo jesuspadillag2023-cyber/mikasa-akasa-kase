@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP Pavilion 15",
+    "precio": 14500,
+    "imagen": "imajes/computadora uwu.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy A35",
+    "precio": 6999,
+    "imagen": "imajes/celular uwu.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos Inalámbricos JBL Tune 510BT",
+    "precio": 1250,
+    "imagen": "imajes/audifonos 3uwu.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch Xiaomi Redmi Watch 4",
+    "precio": 1899,
+    "imagen": "imajes/reloj 4uwu.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico Logitech G413",
+    "precio": 2200,
+    "imagen": "imajes/teclado 5uwu.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Mouse Gamer Razer DeathAdder Essential",
+    "precio": 850,
+    "imagen": "imajes/raton 6uwu.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor LG UltraGear 24”",
+    "precio": 3650,
+    "imagen": "imajes/monitor 7uwu.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Cámara Web Logitech C920 HD Pro",
+    "precio": 1950,
+    "imagen": "imajes/camara 8uwu.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Memoria USB Kingston 128GB",
+    "precio": 299,
+    "imagen": "imajes/usb 9uwu.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Disco Duro Externo Seagate 1TB",
+    "precio": 1250,
+    "imagen": "imajes/nose 10uwu.jpg"
+  }
+]
+
